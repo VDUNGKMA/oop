@@ -1,5 +1,0 @@
-Hello zung
-xin choa2.0
-Hello World
-Kioto
-Student{id=39f, hoten=dung ng, tuoi=34}
